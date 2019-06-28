@@ -1,0 +1,45 @@
+url = http://elmsnew.hbfxlabs.com/
+
+***************ELMS-LoginDetails*******************************************
+Email = admin@hornbillfx.com
+Password = CloudNow@123
+
+browser = chrome
+
+**************ForgotPassword*************************************************
+
+Emailid = maruthi.g@cloudnowtech.com
+
+**************Add Organization**********************************************
+
+OrganizationName = Krisscoo
+//ParentOrganization = Finmark
+Imagepath = /home/css/Desktop/logo1.png
+Description = Company Description for cloudnow
+SearchAddress = cloudnow technologies pvt ltd
+Phone = 7889778900
+
+**************AddRole******************************************************
+Rolename = Testing QA
+Description = description for testingqa role
+
+*************editrole*******************************************************
+
+Editrole = Testing Team
+
+**************SearchRole****************************************************
+
+Searchrolename = Testing QA
+SearchOrg = Test_organisation
+**************************************************************
+
+
+
+
+
+
+
+
+
+
+
